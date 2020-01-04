@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: source-YOUR-emmanuel
+Version: 0.0.1
+Summary: Implementation of Adasqrt
+Home-page: https://github.com/OSI-Group/AdaSqrt
+Author: Example Author
+Author-email: egabeli@aimsammi.com
+License: UNKNOWN
+Description: ### Adaptive square root optimization algorithm 
+        
+        This is new proposed optimization algorithm for deep neural network models. The source 
+        [Second-order information in first-order optimization algorithm](https://arxiv.org/pdf/1912.09926.pdf). For further information and review.  
+        
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
