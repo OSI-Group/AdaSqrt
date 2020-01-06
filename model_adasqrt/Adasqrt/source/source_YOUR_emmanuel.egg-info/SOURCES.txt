@@ -1,0 +1,6 @@
+README.md
+setup.py
+source_YOUR_emmanuel.egg-info/PKG-INFO
+source_YOUR_emmanuel.egg-info/SOURCES.txt
+source_YOUR_emmanuel.egg-info/dependency_links.txt
+source_YOUR_emmanuel.egg-info/top_level.txt
